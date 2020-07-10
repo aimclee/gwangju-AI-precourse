@@ -11,3 +11,7 @@
 
 ## 4주차 과제
 - [딥러닝 용어 정리, 클론코딩, 딥러닝 순전파 & 역전파 계산](https://github.com/aimclee/gwangju-AI-precourse/blob/master/4%EC%A3%BC%EC%B0%A8_assignment.ipynb)
+
+## 최종 합격 :)
+
+- [최종합격](https://drive.google.com/file/d/1DE2hPWrsMP_tc9rOasWdqW6i7ZYTbGzN/view?usp=sharing)
