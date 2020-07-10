@@ -1,4 +1,4 @@
-# 인사관 precourse 과제 목차
+# 광주 인공지능사관학교 precourse 과제 목차
 
 ## 1주차 과제
 - [인공지능 사례분석](https://github.com/aimclee/gwangju-AI-precourse/blob/master/1%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.ipynb)
@@ -14,4 +14,4 @@
 
 ## 최종 합격 :)
 
-- [최종합격](https://drive.google.com/file/d/1DE2hPWrsMP_tc9rOasWdqW6i7ZYTbGzN/view?usp=sharing)
+- [최종합격](https://share.streak.com/1JhpSwuCKG30x3wTZ1UqTm)
